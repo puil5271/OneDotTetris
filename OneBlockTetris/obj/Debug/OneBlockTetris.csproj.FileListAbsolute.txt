@@ -1,0 +1,9 @@
+C:\Users\Lee\documents\visual studio 2017\Projects\OneBlockTetris\bin\Debug\OneBlockTetris.exe.config
+C:\Users\Lee\documents\visual studio 2017\Projects\OneBlockTetris\bin\Debug\OneBlockTetris.exe
+C:\Users\Lee\documents\visual studio 2017\Projects\OneBlockTetris\bin\Debug\OneBlockTetris.pdb
+C:\Users\Lee\documents\visual studio 2017\Projects\OneBlockTetris\obj\Debug\OneBlockTetris.csprojResolveAssemblyReference.cache
+C:\Users\Lee\documents\visual studio 2017\Projects\OneBlockTetris\obj\Debug\OneBlockTetris.Properties.Resources.resources
+C:\Users\Lee\documents\visual studio 2017\Projects\OneBlockTetris\obj\Debug\OneBlockTetris.csproj.GenerateResource.Cache
+C:\Users\Lee\documents\visual studio 2017\Projects\OneBlockTetris\obj\Debug\OneBlockTetris.exe
+C:\Users\Lee\documents\visual studio 2017\Projects\OneBlockTetris\obj\Debug\OneBlockTetris.pdb
+C:\Users\Lee\documents\visual studio 2017\Projects\OneBlockTetris\obj\Debug\OneBlockTetris.OneDotTetris.resources
